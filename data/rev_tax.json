@@ -1,0 +1,1749 @@
+{
+    "peppers": [
+        "herbs and spices"
+    ],
+    "herbs": [
+        "herbs and spices"
+    ],
+    "spices": [
+        "herbs and spices"
+    ],
+    "mixtures": [
+        "herbs and spices"
+    ],
+    "peppercorn": [
+        "peppers",
+        "herbs and spices"
+    ],
+    "capsicum": [
+        "peppers",
+        "herbs and spices"
+    ],
+    "pepper": [
+        "peppers",
+        "herbs and spices"
+    ],
+    "coriander": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "dill": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "cilantro": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "thyme": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "mint": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "sage": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "parsley": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "chive": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "garlic": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "oregano": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "savory": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "hemp": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "rosemary": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "basil": [
+        "herbs",
+        "herbs and spices"
+    ],
+    "ginger": [
+        "spices",
+        "herbs and spices"
+    ],
+    "rose": [
+        "spices",
+        "herbs and spices"
+    ],
+    "vanilla": [
+        "spices",
+        "herbs and spices"
+    ],
+    "cumin": [
+        "spices",
+        "herbs and spices"
+    ],
+    "saffron": [
+        "spices",
+        "herbs and spices"
+    ],
+    "paprika": [
+        "spices",
+        "herbs and spices"
+    ],
+    "sesame": [
+        "spices",
+        "herbs and spices"
+    ],
+    "fennel": [
+        "spices",
+        "herbs and spices"
+    ],
+    "horseradish": [
+        "spices",
+        "herbs and spices"
+    ],
+    "cinnamon": [
+        "spices",
+        "herbs and spices"
+    ],
+    "poppy seed": [
+        "spices",
+        "herbs and spices"
+    ],
+    "spice": [
+        "spices",
+        "herbs and spices"
+    ],
+    "lemon pepper": [
+        "mixtures",
+        "herbs and spices"
+    ],
+    "butter": [
+        "dairy product"
+    ],
+    "cheese": [
+        "dairy product"
+    ],
+    "whey": [
+        "dairy product"
+    ],
+    "curd": [
+        "dairy product"
+    ],
+    "kefir": [
+        "dairy product"
+    ],
+    "creme": [
+        "dairy product"
+    ],
+    "yogurt": [
+        "dairy product"
+    ],
+    "yoghurt": [
+        "dairy product"
+    ],
+    "milk": [
+        "dairy product"
+    ],
+    "cream": [
+        "dairy product"
+    ],
+    "parmesan cheese": [
+        "cheese",
+        "dairy product"
+    ],
+    "cheddar cheese": [
+        "cheese",
+        "dairy product"
+    ],
+    "feta": [
+        "cheese",
+        "dairy product"
+    ],
+    "mozzarella cheese": [
+        "cheese",
+        "dairy product"
+    ],
+    "parmesan": [
+        "parmesan cheese",
+        "cheese",
+        "dairy product"
+    ],
+    "cheddar": [
+        "cheddar cheese",
+        "cheese",
+        "dairy product"
+    ],
+    "mozzarella": [
+        "mozzarella cheese",
+        "cheese",
+        "dairy product"
+    ],
+    "salad": [
+        "side dish"
+    ],
+    "legumes": [
+        "side dish"
+    ],
+    "potatoes": [
+        "side dish"
+    ],
+    "fries": [
+        "side dish"
+    ],
+    "corn salsa": [
+        "side dish"
+    ],
+    "soup": [
+        "side dish"
+    ],
+    "slaw": [
+        "salad",
+        "side dish"
+    ],
+    "pasta salad": [
+        "salad",
+        "side dish"
+    ],
+    "coleslaw": [
+        "salad",
+        "side dish"
+    ],
+    "baked bean": [
+        "legumes",
+        "side dish"
+    ],
+    "baked potato": [
+        "potatoes",
+        "side dish"
+    ],
+    "mashed potato": [
+        "potatoes",
+        "side dish"
+    ],
+    "hash brown": [
+        "potatoes",
+        "side dish"
+    ],
+    "potato salad": [
+        "potatoes",
+        "side dish"
+    ],
+    "french fry": [
+        "fries",
+        "side dish"
+    ],
+    "nacho": [
+        "snack"
+    ],
+    "protein bar": [
+        "snack"
+    ],
+    "snicker": [
+        "snack"
+    ],
+    "cracker": [
+        "snack"
+    ],
+    "pretzel": [
+        "snack"
+    ],
+    "donut": [
+        "snack"
+    ],
+    "cookie": [
+        "snack"
+    ],
+    "tortilla chip": [
+        "snack"
+    ],
+    "popcorn": [
+        "snack"
+    ],
+    "energy bar": [
+        "snack"
+    ],
+    "doughnut": [
+        "snack"
+    ],
+    "potato chip": [
+        "snack"
+    ],
+    "poultry": [
+        "meat"
+    ],
+    "lamb": [
+        "meat"
+    ],
+    "sausage": [
+        "meat"
+    ],
+    "shellfish": [
+        "meat"
+    ],
+    "beef": [
+        "meat"
+    ],
+    "fish": [
+        "meat"
+    ],
+    "pork": [
+        "meat"
+    ],
+    "game": [
+        "meat"
+    ],
+    "meatball": [
+        "meat"
+    ],
+    "seafood": [
+        "meat"
+    ],
+    "turkey": [
+        "poultry",
+        "meat"
+    ],
+    "chicken": [
+        "poultry",
+        "meat"
+    ],
+    "wing": [
+        "poultry",
+        "meat"
+    ],
+    "duck": [
+        "poultry",
+        "meat"
+    ],
+    "hot dog": [
+        "sausage",
+        "meat"
+    ],
+    "salami": [
+        "sausage",
+        "meat"
+    ],
+    "pepperoni": [
+        "sausage",
+        "meat"
+    ],
+    "kielbasa": [
+        "sausage",
+        "meat"
+    ],
+    "bratwurst": [
+        "sausage",
+        "meat"
+    ],
+    "clam": [
+        "shellfish",
+        "meat"
+    ],
+    "prawn": [
+        "shellfish",
+        "meat"
+    ],
+    "shrimp": [
+        "shellfish",
+        "meat"
+    ],
+    "scallop": [
+        "shellfish",
+        "meat"
+    ],
+    "lobster": [
+        "shellfish",
+        "meat"
+    ],
+    "crab": [
+        "shellfish",
+        "meat"
+    ],
+    "mussel": [
+        "shellfish",
+        "meat"
+    ],
+    "oyster": [
+        "shellfish",
+        "meat"
+    ],
+    "meatloaf": [
+        "beef",
+        "meat"
+    ],
+    "veal": [
+        "beef",
+        "meat"
+    ],
+    "sirloin": [
+        "beef",
+        "meat"
+    ],
+    "flank steak": [
+        "beef",
+        "meat"
+    ],
+    "sardine": [
+        "fish",
+        "meat"
+    ],
+    "tilapia": [
+        "fish",
+        "meat"
+    ],
+    "mahi mahi": [
+        "fish",
+        "meat"
+    ],
+    "mackerel": [
+        "fish",
+        "meat"
+    ],
+    "salmon": [
+        "fish",
+        "meat"
+    ],
+    "haddock": [
+        "fish",
+        "meat"
+    ],
+    "catfish": [
+        "fish",
+        "meat"
+    ],
+    "tuna": [
+        "fish",
+        "meat"
+    ],
+    "cod": [
+        "fish",
+        "meat"
+    ],
+    "italian sausage": [
+        "pork",
+        "meat"
+    ],
+    "bacon": [
+        "pork",
+        "meat"
+    ],
+    "ham": [
+        "pork",
+        "meat"
+    ],
+    "pig": [
+        "pork",
+        "meat"
+    ],
+    "venison": [
+        "game",
+        "meat"
+    ],
+    "rabbit": [
+        "game",
+        "meat"
+    ],
+    "calamari": [
+        "seafood",
+        "meat"
+    ],
+    "seaweed": [
+        "seafood",
+        "meat"
+    ],
+    "portobello mushroom": [
+        "mushroom"
+    ],
+    "wild mushroom": [
+        "mushroom"
+    ],
+    "cookies": [
+        "dessert"
+    ],
+    "confectionery": [
+        "dessert"
+    ],
+    "frozen desserts": [
+        "dessert"
+    ],
+    "doughnuts": [
+        "dessert"
+    ],
+    "custards": [
+        "dessert"
+    ],
+    "pudding": [
+        "dessert"
+    ],
+    "cake": [
+        "dessert"
+    ],
+    "pies": [
+        "dessert"
+    ],
+    "ice cream": [
+        "dessert"
+    ],
+    "pastries": [
+        "dessert"
+    ],
+    "cooky": [
+        "cookies",
+        "dessert"
+    ],
+    "snickerdoodle": [
+        "cookies",
+        "dessert"
+    ],
+    "macaroon": [
+        "cookies",
+        "dessert"
+    ],
+    "sprinkle": [
+        "confectionery",
+        "dessert"
+    ],
+    "marshmallow": [
+        "confectionery",
+        "dessert"
+    ],
+    "chocolate bar": [
+        "confectionery",
+        "dessert"
+    ],
+    "butterscotch": [
+        "confectionery",
+        "dessert"
+    ],
+    "candy": [
+        "confectionery",
+        "dessert"
+    ],
+    "chocolate": [
+        "confectionery",
+        "dessert"
+    ],
+    "caramel": [
+        "confectionery",
+        "dessert"
+    ],
+    "milk chocolate": [
+        "confectionery",
+        "dessert"
+    ],
+    "truffle": [
+        "confectionery",
+        "dessert"
+    ],
+    "fudge": [
+        "confectionery",
+        "dessert"
+    ],
+    "nougat": [
+        "confectionery",
+        "dessert"
+    ],
+    "toffee": [
+        "confectionery",
+        "dessert"
+    ],
+    "caramel apple": [
+        "caramel",
+        "confectionery",
+        "dessert"
+    ],
+    "gelato": [
+        "frozen desserts",
+        "dessert"
+    ],
+    "frozen yogurt": [
+        "frozen desserts",
+        "dessert"
+    ],
+    "sorbet": [
+        "frozen desserts",
+        "dessert"
+    ],
+    "popsicle": [
+        "frozen desserts",
+        "dessert"
+    ],
+    "fritter": [
+        "doughnuts",
+        "dessert"
+    ],
+    "souffle": [
+        "custards",
+        "dessert"
+    ],
+    "french toast": [
+        "custards",
+        "dessert"
+    ],
+    "pumpkin pie": [
+        "custards",
+        "dessert"
+    ],
+    "custard": [
+        "custards",
+        "dessert"
+    ],
+    "carrot cake": [
+        "cake",
+        "dessert"
+    ],
+    "cheesecake": [
+        "cake",
+        "dessert"
+    ],
+    "brownie": [
+        "cake",
+        "dessert"
+    ],
+    "cupcake": [
+        "cake",
+        "dessert"
+    ],
+    "chocolate cake": [
+        "cake",
+        "dessert"
+    ],
+    "gingerbread": [
+        "cake",
+        "dessert"
+    ],
+    "waffle": [
+        "cake",
+        "dessert"
+    ],
+    "torte": [
+        "cake",
+        "dessert"
+    ],
+    "pie": [
+        "pies",
+        "dessert"
+    ],
+    "apple pie": [
+        "pies",
+        "dessert"
+    ],
+    "parfait": [
+        "ice cream",
+        "dessert"
+    ],
+    "milkshake": [
+        "ice cream",
+        "dessert"
+    ],
+    "ice cream bar": [
+        "ice cream",
+        "dessert"
+    ],
+    "sundae": [
+        "ice cream",
+        "dessert"
+    ],
+    "cinnamon roll": [
+        "pastries",
+        "dessert"
+    ],
+    "scone": [
+        "pastries",
+        "dessert"
+    ],
+    "puff pastry": [
+        "pastries",
+        "dessert"
+    ],
+    "tropical": [
+        "fruit"
+    ],
+    "temperate": [
+        "fruit"
+    ],
+    "mediterranean": [
+        "fruit"
+    ],
+    "berry": [
+        "fruit"
+    ],
+    "kiwi": [
+        "tropical",
+        "fruit"
+    ],
+    "coconut": [
+        "tropical",
+        "fruit"
+    ],
+    "honeydew": [
+        "tropical",
+        "fruit"
+    ],
+    "papaya": [
+        "tropical",
+        "fruit"
+    ],
+    "orange": [
+        "tropical",
+        "fruit"
+    ],
+    "pomegranate": [
+        "tropical",
+        "fruit"
+    ],
+    "tangerine": [
+        "tropical",
+        "fruit"
+    ],
+    "cantaloupe": [
+        "tropical",
+        "fruit"
+    ],
+    "acai": [
+        "tropical",
+        "fruit"
+    ],
+    "pistachio": [
+        "tropical",
+        "fruit"
+    ],
+    "mango": [
+        "tropical",
+        "fruit"
+    ],
+    "pecan": [
+        "tropical",
+        "fruit"
+    ],
+    "agave": [
+        "tropical",
+        "fruit"
+    ],
+    "pineapple": [
+        "tropical",
+        "fruit"
+    ],
+    "olive": [
+        "tropical",
+        "fruit"
+    ],
+    "watermelon": [
+        "tropical",
+        "fruit"
+    ],
+    "macadamia": [
+        "tropical",
+        "fruit"
+    ],
+    "passion fruit": [
+        "tropical",
+        "fruit"
+    ],
+    "banana": [
+        "tropical",
+        "fruit"
+    ],
+    "grapefruit": [
+        "tropical",
+        "fruit"
+    ],
+    "lime": [
+        "tropical",
+        "fruit"
+    ],
+    "apple": [
+        "temperate",
+        "fruit"
+    ],
+    "peach": [
+        "temperate",
+        "fruit"
+    ],
+    "cherry": [
+        "temperate",
+        "fruit"
+    ],
+    "plum": [
+        "temperate",
+        "fruit"
+    ],
+    "pear": [
+        "temperate",
+        "fruit"
+    ],
+    "apricot": [
+        "temperate",
+        "fruit"
+    ],
+    "date": [
+        "mediterranean",
+        "fruit"
+    ],
+    "raisin": [
+        "mediterranean",
+        "fruit"
+    ],
+    "lemon": [
+        "mediterranean",
+        "fruit"
+    ],
+    "fig": [
+        "mediterranean",
+        "fruit"
+    ],
+    "strawberry": [
+        "berry",
+        "fruit"
+    ],
+    "cranberry": [
+        "berry",
+        "fruit"
+    ],
+    "raspberry": [
+        "berry",
+        "fruit"
+    ],
+    "blackberry": [
+        "berry",
+        "fruit"
+    ],
+    "blueberry": [
+        "berry",
+        "fruit"
+    ],
+    "coffee": [
+        "beverage"
+    ],
+    "alcohol": [
+        "beverage"
+    ],
+    "energy drink": [
+        "beverage"
+    ],
+    "fruit juice": [
+        "beverage"
+    ],
+    "hot chocolate": [
+        "beverage"
+    ],
+    "milk substitutes": [
+        "beverage"
+    ],
+    "lemon beverage": [
+        "beverage"
+    ],
+    "hot beverage": [
+        "beverage"
+    ],
+    "soft drink": [
+        "beverage"
+    ],
+    "macchiato": [
+        "coffee",
+        "beverage"
+    ],
+    "cappuccino": [
+        "coffee",
+        "beverage"
+    ],
+    "espresso": [
+        "coffee",
+        "beverage"
+    ],
+    "latte": [
+        "coffee",
+        "beverage"
+    ],
+    "mocha": [
+        "coffee",
+        "beverage"
+    ],
+    "jack daniel": [
+        "alcohol",
+        "beverage"
+    ],
+    "vodka": [
+        "alcohol",
+        "beverage"
+    ],
+    "cocktail": [
+        "alcohol",
+        "beverage"
+    ],
+    "rum": [
+        "alcohol",
+        "beverage"
+    ],
+    "ale": [
+        "alcohol",
+        "beverage"
+    ],
+    "whiskey": [
+        "alcohol",
+        "beverage"
+    ],
+    "beer": [
+        "alcohol",
+        "beverage"
+    ],
+    "stout": [
+        "alcohol",
+        "beverage"
+    ],
+    "wine": [
+        "alcohol",
+        "beverage"
+    ],
+    "bourbon": [
+        "alcohol",
+        "beverage"
+    ],
+    "champagne": [
+        "alcohol",
+        "beverage"
+    ],
+    "martini": [
+        "alcohol",
+        "beverage"
+    ],
+    "margarita": [
+        "alcohol",
+        "beverage"
+    ],
+    "lemon juice": [
+        "fruit juice",
+        "beverage"
+    ],
+    "orange juice": [
+        "fruit juice",
+        "beverage"
+    ],
+    "apple juice": [
+        "fruit juice",
+        "beverage"
+    ],
+    "coconut milk": [
+        "milk substitutes",
+        "beverage"
+    ],
+    "soy milk": [
+        "milk substitutes",
+        "beverage"
+    ],
+    "almond milk": [
+        "milk substitutes",
+        "beverage"
+    ],
+    "lemonade": [
+        "lemon beverage",
+        "beverage"
+    ],
+    "apple cider": [
+        "hot beverage",
+        "beverage"
+    ],
+    "tea": [
+        "hot beverage",
+        "beverage"
+    ],
+    "herbal tea": [
+        "hot beverage",
+        "beverage"
+    ],
+    "chai": [
+        "hot beverage",
+        "beverage"
+    ],
+    "green tea": [
+        "hot beverage",
+        "beverage"
+    ],
+    "iced tea": [
+        "hot beverage",
+        "beverage"
+    ],
+    "black tea": [
+        "hot beverage",
+        "beverage"
+    ],
+    "fresca": [
+        "soft drink",
+        "beverage"
+    ],
+    "sparkling water": [
+        "soft drink",
+        "beverage"
+    ],
+    "soda": [
+        "soft drink",
+        "beverage"
+    ],
+    "vegetarian": [
+        "diet"
+    ],
+    "vegan": [
+        "diet"
+    ],
+    "breakfast cereal": [
+        "cereal"
+    ],
+    "spelt": [
+        "cereal"
+    ],
+    "oat": [
+        "cereal"
+    ],
+    "rye": [
+        "cereal"
+    ],
+    "barley": [
+        "cereal"
+    ],
+    "porridge": [
+        "breakfast cereal",
+        "cereal"
+    ],
+    "special k": [
+        "breakfast cereal",
+        "cereal"
+    ],
+    "cheerio": [
+        "breakfast cereal",
+        "cereal"
+    ],
+    "oatmeal": [
+        "breakfast cereal",
+        "cereal"
+    ],
+    "granola": [
+        "breakfast cereal",
+        "cereal"
+    ],
+    "muesli": [
+        "breakfast cereal",
+        "cereal"
+    ],
+    "bulb and stem vegetables": [
+        "vegetable"
+    ],
+    "podded vegetables": [
+        "vegetable"
+    ],
+    "flowers and flower buds": [
+        "vegetable"
+    ],
+    "fruits": [
+        "vegetable"
+    ],
+    "leafy and salad": [
+        "vegetable"
+    ],
+    "root and tuberous vegetables": [
+        "vegetable"
+    ],
+    "onion": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "shallot": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "scallion": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "celery": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "spring onion": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "asparagus": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "leek": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "lemongrass": [
+        "bulb and stem vegetables",
+        "vegetable"
+    ],
+    "okra": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "black eyed pea": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "peanut": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "snap pea": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "chickpea": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "green bean": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "garbanzo": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "drumstick": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "lentil": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "pea": [
+        "podded vegetables",
+        "vegetable"
+    ],
+    "caper": [
+        "flowers and flower buds",
+        "vegetable"
+    ],
+    "broccoli": [
+        "flowers and flower buds",
+        "vegetable"
+    ],
+    "cauliflower": [
+        "flowers and flower buds",
+        "vegetable"
+    ],
+    "artichoke": [
+        "flowers and flower buds",
+        "vegetable"
+    ],
+    "tomato": [
+        "fruits",
+        "vegetable"
+    ],
+    "aubergine": [
+        "fruits",
+        "vegetable"
+    ],
+    "avocado": [
+        "fruits",
+        "vegetable"
+    ],
+    "squash": [
+        "fruits",
+        "vegetable"
+    ],
+    "cucumber": [
+        "fruits",
+        "vegetable"
+    ],
+    "courgette": [
+        "fruits",
+        "vegetable"
+    ],
+    "eggplant": [
+        "fruits",
+        "vegetable"
+    ],
+    "zucchini": [
+        "fruits",
+        "vegetable"
+    ],
+    "tomatillo": [
+        "fruits",
+        "vegetable"
+    ],
+    "pumpkin": [
+        "fruits",
+        "vegetable"
+    ],
+    "grape": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "kale": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "spinach": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "arugula": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "lettuce": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "brussels sprout": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "cabbage": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "chard": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "bok choy": [
+        "leafy and salad",
+        "vegetable"
+    ],
+    "beetroot": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "potato": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "radish": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "parsnip": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "yam": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "carrot": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "turnip": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "sweet potato": [
+        "root and tuberous vegetables",
+        "vegetable"
+    ],
+    "sunflower seed": [
+        "nuts and seeds"
+    ],
+    "nut": [
+        "nuts and seeds"
+    ],
+    "pseudocereal": [
+        "nuts and seeds"
+    ],
+    "chestnut": [
+        "nut",
+        "nuts and seeds"
+    ],
+    "cashew": [
+        "nut",
+        "nuts and seeds"
+    ],
+    "hickory": [
+        "nut",
+        "nuts and seeds"
+    ],
+    "almond": [
+        "nut",
+        "nuts and seeds"
+    ],
+    "walnut": [
+        "nut",
+        "nuts and seeds"
+    ],
+    "acorn": [
+        "nut",
+        "nuts and seeds"
+    ],
+    "hazelnut": [
+        "nut",
+        "nuts and seeds"
+    ],
+    "quinoa": [
+        "pseudocereal",
+        "nuts and seeds"
+    ],
+    "chia": [
+        "pseudocereal",
+        "nuts and seeds"
+    ],
+    "flax": [
+        "pseudocereal",
+        "nuts and seeds"
+    ],
+    "buckwheat": [
+        "pseudocereal",
+        "nuts and seeds"
+    ],
+    "olive oil": [
+        "condiment"
+    ],
+    "coffee mate": [
+        "condiment"
+    ],
+    "salt": [
+        "condiment"
+    ],
+    "guacamole": [
+        "condiment"
+    ],
+    "chutney": [
+        "condiment"
+    ],
+    "honey": [
+        "condiment"
+    ],
+    "pico de gallo": [
+        "condiment"
+    ],
+    "brown sugar": [
+        "condiment"
+    ],
+    "almond butter": [
+        "condiment"
+    ],
+    "margarine": [
+        "condiment"
+    ],
+    "miso": [
+        "condiment"
+    ],
+    "sauerkraut": [
+        "condiment"
+    ],
+    "nutella": [
+        "condiment"
+    ],
+    "ketchup": [
+        "condiment"
+    ],
+    "creamer": [
+        "condiment"
+    ],
+    "italian dressing": [
+        "condiment"
+    ],
+    "pesto": [
+        "condiment"
+    ],
+    "syrup": [
+        "condiment"
+    ],
+    "mustard": [
+        "condiment"
+    ],
+    "coconut oil": [
+        "condiment"
+    ],
+    "wasabi": [
+        "condiment"
+    ],
+    "aioli": [
+        "condiment"
+    ],
+    "ranch dressing": [
+        "condiment"
+    ],
+    "balsamic vinegar": [
+        "condiment"
+    ],
+    "salsa": [
+        "condiment"
+    ],
+    "mayonnaise": [
+        "condiment"
+    ],
+    "vinegar": [
+        "condiment"
+    ],
+    "sauce": [
+        "condiment"
+    ],
+    "tzatziki": [
+        "condiment"
+    ],
+    "soy sauce": [
+        "condiment"
+    ],
+    "hummus": [
+        "condiment"
+    ],
+    "vinaigrette": [
+        "condiment"
+    ],
+    "tahini": [
+        "condiment"
+    ],
+    "sour cream": [
+        "condiment"
+    ],
+    "dip": [
+        "condiment"
+    ],
+    "peanut butter": [
+        "condiment"
+    ],
+    "extra virgin olive oil": [
+        "olive oil",
+        "condiment"
+    ],
+    "ranch": [
+        "ranch dressing",
+        "condiment"
+    ],
+    "mayo": [
+        "mayonnaise",
+        "condiment"
+    ],
+    "peanut sauce": [
+        "sauce",
+        "condiment"
+    ],
+    "bbq sauce": [
+        "sauce",
+        "condiment"
+    ],
+    "marinara sauce": [
+        "sauce",
+        "condiment"
+    ],
+    "tomato sauce": [
+        "sauce",
+        "condiment"
+    ],
+    "alfredo sauce": [
+        "sauce",
+        "condiment"
+    ],
+    "hot sauce": [
+        "sauce",
+        "condiment"
+    ],
+    "balsamic vinaigrette": [
+        "vinaigrette",
+        "condiment"
+    ],
+    "maize": [
+        "staple"
+    ],
+    "rice": [
+        "staple"
+    ],
+    "wheat": [
+        "staple"
+    ],
+    "tamale": [
+        "maize",
+        "staple"
+    ],
+    "grit": [
+        "maize",
+        "staple"
+    ],
+    "corn": [
+        "maize",
+        "staple"
+    ],
+    "polenta": [
+        "maize",
+        "staple"
+    ],
+    "taco": [
+        "maize",
+        "staple"
+    ],
+    "cornbread": [
+        "maize",
+        "staple"
+    ],
+    "pho": [
+        "rice",
+        "staple"
+    ],
+    "risotto": [
+        "rice",
+        "staple"
+    ],
+    "sushi": [
+        "rice",
+        "staple"
+    ],
+    "jambalaya": [
+        "rice",
+        "staple"
+    ],
+    "rice noodle": [
+        "rice",
+        "staple"
+    ],
+    "pad thai": [
+        "rice",
+        "staple"
+    ],
+    "pilaf": [
+        "rice",
+        "staple"
+    ],
+    "flatbread": [
+        "wheat",
+        "staple"
+    ],
+    "wedge": [
+        "wheat",
+        "staple"
+    ],
+    "hamburger": [
+        "wheat",
+        "staple"
+    ],
+    "muffin": [
+        "wheat",
+        "staple"
+    ],
+    "naan": [
+        "wheat",
+        "staple"
+    ],
+    "fettuccine": [
+        "wheat",
+        "staple"
+    ],
+    "burger": [
+        "wheat",
+        "staple"
+    ],
+    "penne": [
+        "wheat",
+        "staple"
+    ],
+    "wrap": [
+        "wheat",
+        "staple"
+    ],
+    "ciabatta": [
+        "wheat",
+        "staple"
+    ],
+    "baguette": [
+        "wheat",
+        "staple"
+    ],
+    "sub": [
+        "wheat",
+        "staple"
+    ],
+    "cheesesteak": [
+        "wheat",
+        "staple"
+    ],
+    "whole wheat": [
+        "wheat",
+        "staple"
+    ],
+    "bagel": [
+        "wheat",
+        "staple"
+    ],
+    "macaroni": [
+        "wheat",
+        "staple"
+    ],
+    "focaccia": [
+        "wheat",
+        "staple"
+    ],
+    "couscous": [
+        "wheat",
+        "staple"
+    ],
+    "ravioli": [
+        "wheat",
+        "staple"
+    ],
+    "pizza": [
+        "wheat",
+        "staple"
+    ],
+    "sandwich": [
+        "wheat",
+        "staple"
+    ],
+    "crouton": [
+        "wheat",
+        "staple"
+    ],
+    "rigatoni": [
+        "wheat",
+        "staple"
+    ],
+    "vermicelli": [
+        "wheat",
+        "staple"
+    ],
+    "brioche": [
+        "wheat",
+        "staple"
+    ],
+    "tortilla": [
+        "wheat",
+        "staple"
+    ],
+    "bun": [
+        "wheat",
+        "staple"
+    ],
+    "pancake": [
+        "wheat",
+        "staple"
+    ],
+    "pasta": [
+        "wheat",
+        "staple"
+    ],
+    "crepe": [
+        "wheat",
+        "staple"
+    ],
+    "bread": [
+        "wheat",
+        "staple"
+    ],
+    "tortellini": [
+        "wheat",
+        "staple"
+    ],
+    "noodle": [
+        "wheat",
+        "staple"
+    ],
+    "burrito": [
+        "wheat",
+        "staple"
+    ],
+    "croissant": [
+        "wheat",
+        "staple"
+    ],
+    "biscuit": [
+        "wheat",
+        "staple"
+    ],
+    "roti": [
+        "wheat",
+        "staple"
+    ],
+    "lasagna": [
+        "wheat",
+        "staple"
+    ],
+    "pita": [
+        "wheat",
+        "staple"
+    ],
+    "rotini": [
+        "wheat",
+        "staple"
+    ],
+    "hoagie": [
+        "wheat",
+        "staple"
+    ],
+    "sourdough": [
+        "wheat",
+        "staple"
+    ],
+    "orzo": [
+        "wheat",
+        "staple"
+    ],
+    "cous cous": [
+        "couscous",
+        "wheat",
+        "staple"
+    ],
+    "spaghetti": [
+        "pasta",
+        "wheat",
+        "staple"
+    ],
+    "linguine": [
+        "pasta",
+        "wheat",
+        "staple"
+    ],
+    "macaroni and cheese": [
+        "pasta",
+        "wheat",
+        "staple"
+    ],
+    "omelette": [
+        "egg"
+    ],
+    "omelet": [
+        "egg"
+    ],
+    "legume": [
+        "bean legume"
+    ],
+    "soy product": [
+        "bean legume"
+    ],
+    "bean": [
+        "legume",
+        "bean legume"
+    ],
+    "tofu": [
+        "soy product",
+        "bean legume"
+    ],
+    "edamame": [
+        "soy product",
+        "bean legume"
+    ],
+    "herbs and spices": [],
+    "dairy product": [],
+    "side dish": [],
+    "snack": [],
+    "meat": [],
+    "mushroom": [],
+    "dessert": [],
+    "fruit": [],
+    "beverage": [],
+    "diet": [],
+    "cereal": [],
+    "vegetable": [],
+    "nuts and seeds": [],
+    "condiment": [],
+    "staple": [],
+    "egg": [],
+    "bean legume": []
+}

@@ -1,0 +1,560 @@
+{
+    "herbs and spices": {
+        "peppers": {
+            "peppercorn": {}, 
+            "capsicum": {}, 
+            "pepper": {}
+        }, 
+        "herbs": {
+            "coriander": {}, 
+            "dill": {}, 
+            "cilantro": {}, 
+            "thyme": {}, 
+            "mint": {}, 
+            "sage": {}, 
+            "parsley": {}, 
+            "chive": {}, 
+            "garlic": {}, 
+            "oregano": {}, 
+            "savory": {}, 
+            "hemp": {}, 
+            "rosemary": {}, 
+            "basil": {}
+        }, 
+        "spices": {
+            "ginger": {}, 
+            "rose": {}, 
+            "vanilla": {}, 
+            "cumin": {}, 
+            "saffron": {}, 
+            "paprika": {}, 
+            "sesame": {}, 
+            "fennel": {}, 
+            "horseradish": {}, 
+            "cinnamon": {}, 
+            "poppy seed": {}, 
+            "spice": {}
+        }, 
+        "mixtures": {
+            "lemon pepper": {}
+        }
+    }, 
+    "dairy product": {
+        "butter": {}, 
+        "cheese": {
+            "parmesan cheese": {
+                "parmesan": {}
+            }, 
+            "cheddar cheese": {
+                "cheddar": {}
+            }, 
+            "feta": {}, 
+            "mozzarella cheese": {
+                "mozzarella": {}
+            }
+        }, 
+        "whey": {}, 
+        "curd": {}, 
+        "kefir": {}, 
+        "creme": {}, 
+        "yogurt": {}, 
+        "yoghurt": {}, 
+        "milk": {}, 
+        "cream": {}
+    }, 
+    "side dish": {
+        "salad": {
+            "slaw": {}, 
+            "pasta salad": {}, 
+            "coleslaw": {}
+        }, 
+        "legumes": {
+            "baked bean": {}
+        }, 
+        "potatoes": {
+            "baked potato": {}, 
+            "mashed potato": {}, 
+            "hash brown": {}, 
+            "potato salad": {}
+        }, 
+        "fries": {
+            "french fry": {}
+        }, 
+        "corn salsa": {}, 
+        "soup": {}
+    }, 
+    "snack": {
+        "nacho": {}, 
+        "protein bar": {}, 
+        "snicker": {}, 
+        "cracker": {}, 
+        "pretzel": {}, 
+        "donut": {}, 
+        "cookie": {}, 
+        "tortilla chip": {}, 
+        "popcorn": {}, 
+        "energy bar": {}, 
+        "doughnut": {}, 
+        "potato chip": {}
+    }, 
+    "meat": {
+        "poultry": {
+            "turkey": {}, 
+            "chicken": {}, 
+            "wing": {}, 
+            "duck": {}
+        }, 
+        "lamb": {}, 
+        "sausage": {
+            "hot dog": {}, 
+            "salami": {}, 
+            "pepperoni": {}, 
+            "kielbasa": {}, 
+            "bratwurst": {}
+        }, 
+        "shellfish": {
+            "clam": {}, 
+            "prawn": {}, 
+            "shrimp": {}, 
+            "scallop": {}, 
+            "lobster": {}, 
+            "crab": {}, 
+            "mussel": {}, 
+            "oyster": {}
+        }, 
+        "beef": {
+            "meatloaf": {}, 
+            "veal": {}, 
+            "sirloin": {}, 
+            "flank steak": {}
+        }, 
+        "fish": {
+            "sardine": {}, 
+            "tilapia": {}, 
+            "mahi mahi": {}, 
+            "mackerel": {}, 
+            "salmon": {}, 
+            "haddock": {}, 
+            "catfish": {}, 
+            "tuna": {}, 
+            "cod": {}
+        }, 
+        "pork": {
+            "italian sausage": {}, 
+            "bacon": {}, 
+            "ham": {}, 
+            "pig": {}
+        }, 
+        "game": {
+            "venison": {}, 
+            "rabbit": {}
+        }, 
+        "meatball": {}, 
+        "seafood": {
+            "calamari": {}, 
+            "seaweed": {}
+        }
+    }, 
+    "mushroom": {
+        "portobello mushroom": {}, 
+        "wild mushroom": {}
+    }, 
+    "dessert": {
+        "cookies": {
+            "cooky": {}, 
+            "snickerdoodle": {}, 
+            "macaroon": {}
+        }, 
+        "confectionery": {
+            "sprinkle": {}, 
+            "marshmallow": {}, 
+            "chocolate bar": {}, 
+            "butterscotch": {}, 
+            "candy": {}, 
+            "chocolate": {}, 
+            "caramel": {
+                "caramel apple": {}
+            }, 
+            "milk chocolate": {}, 
+            "truffle": {}, 
+            "fudge": {}, 
+            "nougat": {}, 
+            "toffee": {}
+        }, 
+        "frozen desserts": {
+            "gelato": {}, 
+            "frozen yogurt": {}, 
+            "sorbet": {}, 
+            "popsicle": {}
+        }, 
+        "doughnuts": {
+            "fritter": {}
+        }, 
+        "custards": {
+            "souffle": {}, 
+            "french toast": {}, 
+            "pumpkin pie": {}, 
+            "custard": {}
+        }, 
+        "pudding": {}, 
+        "cake": {
+            "carrot cake": {}, 
+            "cheesecake": {}, 
+            "brownie": {}, 
+            "cupcake": {}, 
+            "chocolate cake": {}, 
+            "gingerbread": {}, 
+            "waffle": {}, 
+            "torte": {}
+        }, 
+        "pies": {
+            "pie": {}, 
+            "apple pie": {}
+        }, 
+        "ice cream": {
+            "parfait": {}, 
+            "milkshake": {}, 
+            "ice cream bar": {}, 
+            "sundae": {}
+        }, 
+        "pastries": {
+            "cinnamon roll": {}, 
+            "scone": {}, 
+            "puff pastry": {}
+        }
+    }, 
+    "fruit": {
+        "tropical": {
+            "kiwi": {}, 
+            "coconut": {}, 
+            "honeydew": {}, 
+            "papaya": {}, 
+            "orange": {}, 
+            "pomegranate": {}, 
+            "tangerine": {}, 
+            "cantaloupe": {}, 
+            "acai": {}, 
+            "pistachio": {}, 
+            "mango": {}, 
+            "pecan": {}, 
+            "agave": {}, 
+            "pineapple": {}, 
+            "olive": {}, 
+            "watermelon": {}, 
+            "macadamia": {}, 
+            "passion fruit": {}, 
+            "banana": {}, 
+            "grapefruit": {}, 
+            "lime": {}
+        }, 
+        "temperate": {
+            "apple": {}, 
+            "peach": {}, 
+            "cherry": {}, 
+            "plum": {}, 
+            "pear": {}, 
+            "apricot": {}
+        }, 
+        "mediterranean": {
+            "date": {}, 
+            "raisin": {}, 
+            "lemon": {}, 
+            "fig": {}
+        }, 
+        "berry": {
+            "strawberry": {}, 
+            "cranberry": {}, 
+            "raspberry": {}, 
+            "blackberry": {}, 
+            "blueberry": {}
+        }
+    }, 
+    "beverage": {
+        "coffee": {
+            "macchiato": {}, 
+            "cappuccino": {}, 
+            "espresso": {}, 
+            "latte": {}, 
+            "mocha": {}
+        }, 
+        "alcohol": {
+            "jack daniel": {}, 
+            "vodka": {}, 
+            "cocktail": {}, 
+            "rum": {}, 
+            "ale": {}, 
+            "whiskey": {}, 
+            "beer": {}, 
+            "stout": {}, 
+            "wine": {}, 
+            "bourbon": {}, 
+            "champagne": {}, 
+            "martini": {}, 
+            "margarita": {}
+        }, 
+        "energy drink": {}, 
+        "fruit juice": {
+            "lemon juice": {}, 
+            "orange juice": {}, 
+            "apple juice": {}
+        }, 
+        "hot chocolate": {}, 
+        "milk substitutes": {
+            "coconut milk": {}, 
+            "soy milk": {}, 
+            "almond milk": {}
+        }, 
+        "lemon beverage": {
+            "lemonade": {}
+        }, 
+        "hot beverage": {
+            "apple cider": {}, 
+            "tea": {}, 
+            "herbal tea": {}, 
+            "chai": {}, 
+            "green tea": {}, 
+            "iced tea": {}, 
+            "black tea": {}
+        }, 
+        "soft drink": {
+            "fresca": {}, 
+            "sparkling water": {}, 
+            "soda": {}
+        }
+    }, 
+    "diet": {
+        "vegetarian": {}, 
+        "vegan": {}
+    }, 
+    "cereal": {
+        "breakfast cereal": {
+            "porridge": {}, 
+            "special k": {}, 
+            "cheerio": {}, 
+            "oatmeal": {}, 
+            "granola": {}, 
+            "muesli": {}
+        }, 
+        "spelt": {}, 
+        "oat": {}, 
+        "rye": {}, 
+        "barley": {}
+    }, 
+    "vegetable": {
+        "bulb and stem vegetables": {
+            "onion": {}, 
+            "shallot": {}, 
+            "scallion": {}, 
+            "celery": {}, 
+            "spring onion": {}, 
+            "asparagus": {}, 
+            "leek": {}, 
+            "lemongrass": {}
+        }, 
+        "podded vegetables": {
+            "okra": {}, 
+            "black eyed pea": {}, 
+            "peanut": {}, 
+            "snap pea": {}, 
+            "chickpea": {}, 
+            "green bean": {}, 
+            "garbanzo": {}, 
+            "drumstick": {}, 
+            "lentil": {}, 
+            "pea": {}
+        }, 
+        "flowers and flower buds": {
+            "caper": {}, 
+            "broccoli": {}, 
+            "cauliflower": {}, 
+            "artichoke": {}
+        }, 
+        "fruits": {
+            "tomato": {}, 
+            "aubergine": {}, 
+            "avocado": {}, 
+            "squash": {}, 
+            "cucumber": {}, 
+            "courgette": {}, 
+            "eggplant": {}, 
+            "zucchini": {}, 
+            "tomatillo": {}, 
+            "pumpkin": {}
+        }, 
+        "leafy and salad": {
+            "grape": {}, 
+            "kale": {}, 
+            "spinach": {}, 
+            "arugula": {}, 
+            "lettuce": {}, 
+            "brussels sprout": {}, 
+            "cabbage": {}, 
+            "chard": {}, 
+            "bok choy": {}
+        }, 
+        "root and tuberous vegetables": {
+            "beetroot": {}, 
+            "potato": {}, 
+            "radish": {}, 
+            "parsnip": {}, 
+            "yam": {}, 
+            "carrot": {}, 
+            "turnip": {}, 
+            "sweet potato": {}
+        }
+    }, 
+    "nuts and seeds": {
+        "sunflower seed": {}, 
+        "nut": {
+            "chestnut": {}, 
+            "cashew": {}, 
+            "hickory": {}, 
+            "almond": {}, 
+            "walnut": {}, 
+            "acorn": {}, 
+            "hazelnut": {}
+        }, 
+        "pseudocereal": {
+            "quinoa": {}, 
+            "chia": {}, 
+            "flax": {}, 
+            "buckwheat": {}
+        }
+    }, 
+    "condiment": {
+        "olive oil": {
+            "extra virgin olive oil": {}
+        }, 
+        "coffee mate": {}, 
+        "salt": {}, 
+        "guacamole": {}, 
+        "chutney": {}, 
+        "honey": {}, 
+        "pico de gallo": {}, 
+        "brown sugar": {}, 
+        "almond butter": {}, 
+        "margarine": {}, 
+        "miso": {}, 
+        "sauerkraut": {}, 
+        "nutella": {}, 
+        "ketchup": {}, 
+        "creamer": {}, 
+        "italian dressing": {}, 
+        "pesto": {}, 
+        "syrup": {}, 
+        "mustard": {}, 
+        "coconut oil": {}, 
+        "wasabi": {}, 
+        "aioli": {}, 
+        "ranch dressing": {
+            "ranch": {}
+        }, 
+        "balsamic vinegar": {}, 
+        "salsa": {}, 
+        "mayonnaise": {
+            "mayo": {}
+        }, 
+        "vinegar": {}, 
+        "sauce": {
+            "peanut sauce": {}, 
+            "bbq sauce": {}, 
+            "marinara sauce": {}, 
+            "tomato sauce": {}, 
+            "alfredo sauce": {}, 
+            "hot sauce": {}
+        }, 
+        "tzatziki": {}, 
+        "soy sauce": {}, 
+        "hummus": {}, 
+        "vinaigrette": {
+            "balsamic vinaigrette": {}
+        }, 
+        "tahini": {}, 
+        "sour cream": {}, 
+        "dip": {}, 
+        "peanut butter": {}
+    }, 
+    "staple": {
+        "maize": {
+            "tamale": {}, 
+            "grit": {}, 
+            "corn": {}, 
+            "polenta": {}, 
+            "taco": {}, 
+            "cornbread": {}
+        }, 
+        "rice": {
+            "pho": {}, 
+            "risotto": {}, 
+            "sushi": {}, 
+            "jambalaya": {}, 
+            "rice noodle": {}, 
+            "pad thai": {}, 
+            "pilaf": {}
+        }, 
+        "wheat": {
+            "flatbread": {}, 
+            "wedge": {}, 
+            "hamburger": {}, 
+            "muffin": {}, 
+            "naan": {}, 
+            "fettuccine": {}, 
+            "burger": {}, 
+            "penne": {}, 
+            "wrap": {}, 
+            "ciabatta": {}, 
+            "baguette": {}, 
+            "sub": {}, 
+            "cheesesteak": {}, 
+            "whole wheat": {}, 
+            "bagel": {}, 
+            "macaroni": {}, 
+            "focaccia": {}, 
+            "couscous": {
+                "cous cous": {}
+            }, 
+            "ravioli": {}, 
+            "pizza": {}, 
+            "sandwich": {}, 
+            "crouton": {}, 
+            "rigatoni": {}, 
+            "vermicelli": {}, 
+            "brioche": {}, 
+            "tortilla": {}, 
+            "bun": {}, 
+            "pancake": {}, 
+            "pasta": {
+                "spaghetti": {}, 
+                "linguine": {}, 
+                "macaroni and cheese": {}
+            }, 
+            "crepe": {}, 
+            "bread": {}, 
+            "tortellini": {}, 
+            "noodle": {}, 
+            "burrito": {}, 
+            "croissant": {}, 
+            "biscuit": {}, 
+            "roti": {}, 
+            "lasagna": {}, 
+            "pita": {}, 
+            "rotini": {}, 
+            "hoagie": {}, 
+            "sourdough": {}, 
+            "orzo": {}
+        }
+    }, 
+    "egg": {
+        "omelette": {}, 
+        "omelet": {}
+    }, 
+    "bean legume": {
+        "legume": {
+            "bean": {}
+        }, 
+        "soy product": {
+            "tofu": {}, 
+            "edamame": {}
+        }
+    }
+}
